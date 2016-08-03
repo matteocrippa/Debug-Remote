@@ -1,0 +1,14 @@
+{
+  "name": "debug-remote",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matteo Crippa",
+  "license": "MIT",
+  "dependencies": {
+    "localtunnel": "^1.8.1"
+  }
+}
